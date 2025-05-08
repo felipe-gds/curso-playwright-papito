@@ -1,4 +1,4 @@
-# Playplaywright 
+# Playwright 
 
 Este projeto explora o uso do Playwright para realizar testes automatizados que vão além do trivial. O objetivo é testar a reprodução de uma música, desde o início até o momento de pausa, garantindo uma experiência fluida e funcional.
 
@@ -31,7 +31,3 @@ https://parodify.vercel.app/
 
 - `tests/`: Contém os testes automatizados.
 - `playwright.config.js`: Configuração do Playwright.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
